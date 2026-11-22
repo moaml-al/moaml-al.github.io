@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.moaml_al.twa",
-        "sha256_cert_fingerprints": ["21:10:11:5B:CA:0A:04:A4:9D:9D:F3:94:FB:F5:69:DF:CF:BE:7E:66:88:30:7F:18:9F:33:3A:04:F8:3F:66:50"]
-      }
-    }]
